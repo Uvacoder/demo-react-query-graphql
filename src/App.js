@@ -1,5 +1,5 @@
 import React from "react";
-import PaginatedCharacters from './components/PaginatedCharacters';
+// import PaginatedCharacters from './components/PaginatedCharacters';
 import SearchedCharacters from './components/SearchCharacters';
 
 function App() {
